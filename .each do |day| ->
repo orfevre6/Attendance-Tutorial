@@ -1,0 +1,191 @@
+[33mcommit 171d042c409efba416644f87701be9885c95b2cf[m[33m ([m[1;36mHEAD -> [m[1;32madd-user-attendances[m[33m)[m
+Author: orfevre6 <icandoallthingsby30@gmail.com>
+Date:   Sun Jun 21 12:55:56 2020 +0000
+
+    10章10.4終了
+
+[33mcommit 130a21349322a200f9f4bd1b44f802913c15eec2[m
+Author: orfevre6 <icandoallthingsby30@gmail.com>
+Date:   Sat Jun 20 06:08:20 2020 +0000
+
+    10章10.1.3終了
+
+[33mcommit 3390514305ab912f8f5bf7aa9bc2506e152725ab[m[33m ([m[1;31morigin/master[m[33m, [m[1;32mmaster[m[33m, [m[1;32madd-basic-info[m[33m)[m
+Author: orfevre6 <icandoallthingsby30@gmail.com>
+Date:   Fri Jun 19 13:36:40 2020 +0000
+
+    Finish add-basic-info
+
+[33mcommit 54dd462d6ca03b250a6cbf1b8655f9655ca30dea[m
+Author: orfevre6 <icandoallthingsby30@gmail.com>
+Date:   Wed Jun 17 13:07:49 2020 +0000
+
+    9章9.1.3終了
+
+[33mcommit 29b4b46b450a6221c632ece1e2859bc1f0b7f4b8[m[33m ([m[1;32mjapanization-and-time-format[m[33m)[m
+Author: orfevre6 <icandoallthingsby30@gmail.com>
+Date:   Tue Jun 16 13:16:53 2020 +0000
+
+    Finish japanization-and-time-format
+
+[33mcommit fcde27899c5717c6b406942272cbd1186ee3c4ef[m[33m ([m[1;32mediting-users[m[33m)[m
+Author: orfevre6 <icandoallthingsby30@gmail.com>
+Date:   Mon Jun 15 13:22:34 2020 +0000
+
+    Finish editing-users
+
+[33mcommit edb4dfdc96ea6f6b0f1fe66385db4bb5ffb2fbd7[m
+Author: orfevre6 <icandoallthingsby30@gmail.com>
+Date:   Sat Jun 13 13:21:55 2020 +0000
+
+    8章8.1.4終了
+
+[33mcommit 5324ee7372ef597a3e7a502ffce918504bc42a6b[m
+Author: orfevre6 <icandoallthingsby30@gmail.com>
+Date:   Fri Jun 12 13:44:35 2020 +0000
+
+    8章8.1終了
+
+[33mcommit c5457e0c854e4c078eda8efd5bd8aa8e5db5b30b[m[33m ([m[1;32mfull-fledged-login[m[33m)[m
+Author: orfevre6 <icandoallthingsby30@gmail.com>
+Date:   Thu Jun 11 05:06:38 2020 +0000
+
+    Finish-full-fledged-login
+
+[33mcommit 6dfa25d3ff92832619fd4260062f2fd4a7d18bea[m[33m ([m[1;32mlogin-function[m[33m, [m[1;32mfull-fledged[m[33m)[m
+Author: orfevre6 <icandoallthingsby30@gmail.com>
+Date:   Thu Jun 11 03:32:50 2020 +0000
+
+    Finish login_function
+
+[33mcommit 045aafdb41ba5f2fcc7a35586ebcf178887116cf[m
+Author: orfevre6 <icandoallthingsby30@gmail.com>
+Date:   Thu Jun 11 03:22:40 2020 +0000
+
+    6章6.4終了
+
+[33mcommit ffff9e81513175cfdac1c881aa90abf2e25dcc37[m
+Author: orfevre6 <icandoallthingsby30@gmail.com>
+Date:   Thu Jun 11 02:51:58 2020 +0000
+
+    6章6.2.2終了
+
+[33mcommit 08040280cd3f21c8531d8fefd0d0f8584ac698e4[m
+Author: orfevre6 <icandoallthingsby30@gmail.com>
+Date:   Wed Jun 10 12:03:29 2020 +0000
+
+    6章6.1終了
+
+[33mcommit 680006f506297b976457cd776bc6787bb5490829[m[33m ([m[1;32msignup-user[m[33m)[m
+Author: orfevre6 <icandoallthingsby30@gmail.com>
+Date:   Wed Jun 10 11:52:35 2020 +0000
+
+    Finish signup-user
+
+[33mcommit d1d3b886987e4d1c8974f02819e0a44d5d4253d9[m
+Author: orfevre6 <icandoallthingsby30@gmail.com>
+Date:   Wed Jun 10 11:37:39 2020 +0000
+
+    5章5.5.4終了
+
+[33mcommit 97e501c721758643f425cb3e335f2f8b77aa9247[m
+Author: orfevre6 <icandoallthingsby30@gmail.com>
+Date:   Wed Jun 10 11:03:55 2020 +0000
+
+    5章5.5.3終了
+
+[33mcommit 203021299fac4c199fa3cd3d68961f3878bcf47e[m
+Author: orfevre6 <icandoallthingsby30@gmail.com>
+Date:   Wed Jun 10 10:58:14 2020 +0000
+
+    5章5.5.2終了
+
+[33mcommit 0e530eed624485681ac1ef25549222a1bab32296[m
+Author: orfevre6 <icandoallthingsby30@gmail.com>
+Date:   Wed Jun 10 10:43:50 2020 +0000
+
+    5章5.5終了
+
+[33mcommit 317e6cf73818bfb50b76dd9cd50db65058be0e34[m
+Author: orfevre6 <icandoallthingsby30@gmail.com>
+Date:   Wed Jun 10 10:11:32 2020 +0000
+
+    5章5.4終了
+
+[33mcommit e3f62be2d13e0a49ed24e99551f62926ab33070e[m
+Author: orfevre6 <icandoallthingsby30@gmail.com>
+Date:   Wed Jun 10 09:50:57 2020 +0000
+
+    5章5.2終了
+
+[33mcommit 6ed8ef0a10a6a231ae5ce5b9d728fc13615a040b[m
+Author: orfevre6 <icandoallthingsby30@gmail.com>
+Date:   Tue Jun 9 02:19:27 2020 +0000
+
+    5章5.1終了
+
+[33mcommit 726e465f1da269116c0c5596d4247de1b0e68266[m[33m ([m[1;32mmodeling-user[m[33m)[m
+Author: orfevre6 <icandoallthingsby30@gmail.com>
+Date:   Mon Jun 8 14:33:06 2020 +0000
+
+    4章4.5.1終了
+
+[33mcommit 527cfa8ea7510ca1baa515dbfe31a9905d533752[m
+Author: orfevre6 <icandoallthingsby30@gmail.com>
+Date:   Mon Jun 8 14:26:56 2020 +0000
+
+    4章4.4.6終了
+
+[33mcommit f042cdcd689add2f753dd0a7c134cf9df2e03b88[m
+Author: orfevre6 <icandoallthingsby30@gmail.com>
+Date:   Mon Jun 8 13:48:08 2020 +0000
+
+    4章4.2.2終了
+
+[33mcommit 6ff928457a7bada890e07bc9ef16c18ad9d5f51a[m[33m ([m[1;32mpage-layout[m[33m)[m
+Author: orfevre6 <icandoallthingsby30@gmail.com>
+Date:   Mon Jun 8 13:38:16 2020 +0000
+
+    Finish page-layout
+
+[33mcommit ac79e340ec5c2e87a26cc8a9114b0e90b4c467e0[m
+Author: orfevre6 <icandoallthingsby30@gmail.com>
+Date:   Mon Jun 8 13:31:48 2020 +0000
+
+    3章3.4終了
+
+[33mcommit d73ac8897442c038b3357f58fb2af99d6a1125ae[m
+Author: orfevre6 <icandoallthingsby30@gmail.com>
+Date:   Mon Jun 8 13:25:28 2020 +0000
+
+    3章3.2終了
+
+[33mcommit 1c0ee1fd4d036bb97fe67f13cc571121fea957b5[m[33m ([m[1;32mtop-page[m[33m)[m
+Author: orfevre6 <icandoallthingsby30@gmail.com>
+Date:   Mon Jun 8 13:07:49 2020 +0000
+
+    Finish top-page
+
+[33mcommit b2c2eae7b589ddfb5becf43c9a08cd4f9003ca48[m
+Author: orfevre6 <icandoallthingsby30@gmail.com>
+Date:   Mon Jun 8 12:47:07 2020 +0000
+
+    static_pagesコントローラを追加
+
+[33mcommit 71d552d1517566e1319a84f4bf1de18a53cba074[m
+Author: orfevre6 <icandoallthingsby30@gmail.com>
+Date:   Mon Jun 8 12:44:36 2020 +0000
+
+    日時の設定を追加
+
+[33mcommit 74a04e6d1febe6264da8d6ea93e1fdfc6b03023e[m[33m ([m[1;32mmodify-README[m[33m)[m
+Author: orfevre6 <icandoallthingsby30@gmail.com>
+Date:   Mon Jun 8 12:41:00 2020 +0000
+
+    READMEを修正
+
+[33mcommit e3cb7f9bc3a66e14ed8a6dea44ddb7e7d159b437[m
+Author: orfevre6 <icandoallthingsby30@gmail.com>
+Date:   Mon Jun 8 12:33:10 2020 +0000
+
+    Initialize repository
